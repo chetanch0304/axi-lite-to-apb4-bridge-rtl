@@ -53,6 +53,7 @@ VCD info: dumpfile simulation_waves.vcd opened for output.
 ---
 
 ## 📈 Waveform Performance Analysis
+![GTKWave Simulation Results](waveform.png)
 
 Functional verification shows clean back-to-back operations without interface stalls.
 
